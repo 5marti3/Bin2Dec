@@ -1,7 +1,8 @@
 # Bin2Dec
+
 Convert binary digits to decimal numbers
 
-#Hello
+# Hello
 
 ## What is this?
 
